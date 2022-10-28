@@ -1,0 +1,42 @@
+[
+  {
+      "sprint": 41,
+      "estimated": 35,
+      "claimed": 22,
+      "completed": 14,
+      "adjusted": 8,
+      "incomplete": 13
+  },
+  {
+      "sprint": 42,
+      "estimated": 37,
+      "claimed": 17,
+      "completed": 17,
+      "adjusted": 0,
+      "incomplete": 20
+  },
+  {
+      "sprint": 43,
+      "estimated": 40,
+      "claimed": 23,
+      "completed": 17,
+      "adjusted": 6,
+      "incomplete": 17
+  },
+  {
+      "sprint": 44,
+      "estimated": 30,
+      "claimed": 21,
+      "completed": 17,
+      "adjusted": 4,
+      "incomplete": 9
+  },
+  {
+      "sprint": 45,
+      "estimated": 35,
+      "claimed": 23,
+      "completed": 17,
+      "adjusted": 6,
+      "incomplete": 12
+  }
+]
